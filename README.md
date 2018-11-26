@@ -11,6 +11,9 @@ In order to start working on the repository, we must first initialize our workin
 2. Using git and github clone the repository inside of the newly created working directory
 3. Run gitruler to initialize the exercise 
 
+(After running git ruler for the first time, you might notice a rule passes, to fix that please do git add * , then git commit -m "setup files")
+
+
 ## Our first commits
 
 1. Create 2 .txt files, file4 and file5, in the files folder and commit them with the message "add file4 and file5"
@@ -25,4 +28,3 @@ We want to reorganize the workspace by moving some files around and deleting the
 3. Move file1 and file2 to misc
 4. Commit this move with message "swap file1 and file2 with file3"
 5. Remove file7 from files and commit with the message "remove file7"
-
