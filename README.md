@@ -20,7 +20,9 @@ In order to start working on the repository, we must first initialize our workin
 
 We want to reorganize the workspace by moving some files around and deleting the ones we don't need anymore:
 
-1. Using git move file3 from misc to files
+(Move the files from the system explorer, not using git mv command. Gitruler cannot track your files otherwise.)
+
+1. Using git move file3 from misc to files 
 2. Commit the move with the message "move file3 to files"
 3. Move file1 and file2 to misc
 4. Commit this move with message "swap file1 and file2 with file3"
